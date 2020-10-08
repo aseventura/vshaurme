@@ -1,2 +1,9 @@
 # Игнорирование каталога от JetBrains
 /.idea
+
+# Игнорирование каталога от VSCode
+/.vscode
+
+# Игнорирование БД SQLite
+/.DS_Store
+*.sqlite3
